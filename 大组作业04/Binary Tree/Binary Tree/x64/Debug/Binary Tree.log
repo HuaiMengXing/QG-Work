@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\HuaiMeng\Desktop\QG训练营大组作业\大组作业04\Binary Tree\Binary Tree\Binary_sort_tree.h(422): warning C4715: “BinarySortTree<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::BST_preorderR”: 不是所有的控件路径都返回值
+C:\Users\HuaiMeng\Desktop\QG训练营大组作业\大组作业04\Binary Tree\Binary Tree\Binary_sort_tree.h(566): warning C4715: “BinarySortTree<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::BST_postorderR”: 不是所有的控件路径都返回值
+C:\Users\HuaiMeng\Desktop\QG训练营大组作业\大组作业04\Binary Tree\Binary Tree\Binary_sort_tree.h(494): warning C4715: “BinarySortTree<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::BST_inorderR”: 不是所有的控件路径都返回值
+C:\Users\HuaiMeng\Desktop\QG训练营大组作业\大组作业04\Binary Tree\Binary Tree\Binary_sort_tree.h(68): warning C4715: “LQueue<Node<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > *>::push”: 不是所有的控件路径都返回值
+  Binary Tree.vcxproj -> C:\Users\HuaiMeng\Desktop\QG训练营大组作业\大组作业04\Binary Tree\x64\Debug\Binary Tree.exe
